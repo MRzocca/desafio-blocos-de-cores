@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.blocos {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin: 25px 0 0 0;
+}
+
+.mouse {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+}
+
+.tomato {
+  background-color: tomato;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.dodgerblue {
+  background-color: dodgerblue;
+}
+
+.mediumseagreen {
+  background-color: mediumseagreen;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.slateblue {
+  background-color: slateblue;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.lightgray {
+  background-color: lightgray;
+}
